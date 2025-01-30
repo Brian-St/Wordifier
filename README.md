@@ -1,5 +1,6 @@
 # Wordifier
 Wordifier is a Java application designed to iteratively learn and identify words from character-segmented text files. It employs algorithms to analyze sequences of characters, constructs potential words, and evaluates their validity based on predefined criteria. This tool is particularly useful for natural language processing tasks where word segmentation is required.
+
 Features:
 Processes character-segmented text files to identify potential words.
 Utilizes iterative learning methods to improve word recognition accuracy.
